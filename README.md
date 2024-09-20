@@ -8,11 +8,16 @@
 
 pip install pynput
 
-# Save the Code: Copy the code above into a text editor and save it as keylogger.py.
+# Save the Code: 
 
-# Run the Keylogger: Open your terminal or command prompt, navigate to where you saved keylogger.py, and run:
+Copy the code above into a text editor and save it as keylogger.py.
 
-# bash
+# Run the Keylogger: 
+
+Open your terminal or command prompt, navigate to where you saved keylogger.py, and
+run:
+
+ bash
 
     python keylogger.py
 
